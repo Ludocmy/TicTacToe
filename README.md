@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Tic Tac Toe Game in React App
+
+I coded this simple Tic Tac Toe game to get familiar with react and start coding small projects. It is very simple to use, it will open up as a local host in your browser and then upon the first click in one of the boxes it will put an X and switch the current player to O. This repeats until one of the winning patterns (conditions) is satisfied therefore stopping the game and announcing the winner in a message. Finally, the board will reset.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
